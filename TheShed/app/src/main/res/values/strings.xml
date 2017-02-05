@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TheShed</string>
+    <string name="start_button_text">Set Goals</string>
+    <string-array name="navItems">
+        <item>5 Year Goal</item>
+        <item>Daily Practice</item>
+        <item>Schedule</item>
+        <item>Settings</item>
+    </string-array>
 </resources>
